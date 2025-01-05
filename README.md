@@ -9,7 +9,7 @@ docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=<PASSWORD>' -p 1433:1433 --name sq
 
 ### Create Database
 ```
-CREATE DATABASE Note;
+CREATE DATABASE NoteApp;
 ```
 
 ### Create Table

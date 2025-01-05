@@ -10,7 +10,7 @@ app.use(bodyParser.json());
 
 const config = {
   user: 'sa',
-  password: 'StrongPassword!',
+  password: '<Password>',
   server: 'localhost',
   database: 'NoteApp',
   options: {
